@@ -19,5 +19,16 @@
 
     <script src="{{ .Site.BaseURL }}js/jquery-3.5.1.min.js"></script>
 
+    <meta content="{{ .Page.Title }}" itemprop="name" />
+    <meta content="{{ .Page.Description }}" itemprop="description" />
+    <meta content="{{ .Page.Title }}" property="og:title" />
+    <meta content="website" property="og:type" />
+    <meta content="{{ .Site.BaseURL }}" property="og:url" />
+    <meta content="{{ .Page.Title }}" property="og:site_name" />
+    <meta content="summary" name="twitter:card" />
+    <meta content="{{ .Page.Title }}" name="twitter:title" />
+    <meta content="{{ .Page.Description }}" name="twitter:description" />
+    <meta content="{{ .Site.BaseURL }}" name="twitter:url" />
+
     {{ partial "header/box-colors.html" . }}
 </head>

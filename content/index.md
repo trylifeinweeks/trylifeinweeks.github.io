@@ -1,6 +1,7 @@
 ---
 title       : My Life in Weeks
-start_date	: 1975-09-19
+description : This is a map of my life, where each week I’ve been alive is a little box.
+start_date  : 1975-09-19
 end_year    : 2075
 ---
 
