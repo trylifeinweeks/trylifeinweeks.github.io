@@ -68,8 +68,167 @@
     based: "Seoul"
     doing: "University student"
 
-"2024-12-04":
-  - headline: "🎉 20th Birthday"
-    description: "Celebrating two decades of life and looking forward to the adventures ahead."
-    based: "Seoul"
-    doing: "University student"
+"2011-07-01":
+    - headline: "🇨🇳 Visited China"
+      description: "Toured Bejing, Shanghai, Guangzhou, Suzhou with T & T."
+
+"2012-09-18":
+    - headline: "🐣 E born"
+      description: "At last."
+
+"2013-09-18":
+    - headline: "👶 E turned 1"
+
+"2013-12-30":
+    - headline: "🥯 Back to Brooklyn"
+      based: "Brooklyn"
+      description: "A baby brings you closer to family. Co-founders like to work in the same city."
+
+"2014-09-18":
+    - headline: "👶 E turned 2"
+
+"2015-05-15":
+    - headline: "🛠️ Made Makerbase"
+      description: "Launched ThinkUp LLC's second product, Makerbase, an IMDb for digital product creators. Fog Creek software acquired Makerbase the next year."
+
+"2015-06-26":
+    - headline: "🏳️‍🌈 Marriage recognized nationally"
+      description: "Same-sex marriage became legally recognized in all 50 states across the U.S. The Supreme Court ruled in the case of Obergefell v. Hodges that a fundamental right to marry is guaranteed to same-sex couples by the Fourteenth Amendment, and that states must allow same-sex marriage."
+
+"2015-08-04":
+    - headline: "🇺🇸 White House"
+      description: "Launched Makerbase at the White House at its first-ever Demo Day, hosted by President Obama on his birthday. We sang Happy Birthday to him in the East Wing."
+
+"2015-09-18":
+    - headline: "👶 E turned 3"
+
+"2016-04-16":
+    - headline: "🏢 Started at Postlight"
+      based: "Brooklyn"
+      doing: "Working"
+      association: "Postlight"
+      description: "An agency, why not?"
+
+"2016-06-13":
+    - headline: "📉 Shut down ThinkUp"
+      description: "The SaaS model didn't work. We refunded our subscribers with lots of sadness and gratitude."
+
+"2016-09-18":
+    - headline: "👶 E turned 4"
+
+"2017-06-15":
+    - headline: "🏢 Partner at Postlight"
+
+"2017-08-15":
+    - headline: "✅ Transitioned Todo.txt"
+      description: "Stepped away from hands-on maintenance, and transferred the Todo.txt projects to a new community-led organization."
+
+"2017-09-18":
+    - headline: "👧 E turned 5"
+
+"2018-03-21":
+    - headline: "🤩 Gillian tweet"
+      description: "Gillian Anderson replied \"thank you, Gina\" to a fangirl tweet from me. Printed, framed, and hung on my wall."
+
+"2018-07-26":
+    - headline: "🪂 Paragliding"
+      description: "Off the coast in San Diego, spectacular."
+
+"2018-09-18":
+    - headline: "👧 E turned 6"
+
+"2019-09-18":
+    - headline: "👧 E turned 7"
+
+"2020-09-18":
+    - headline: "👧 E turned 8"
+
+"2020-03-15":
+    - headline: "🦠 Covid-19"
+      description: "Just a global pandemic."
+
+"2020-03-30":
+    - headline: "🦆 North Carolina"
+      based: "North Carolina"
+      description: "Pandemic NYC was scary, so we escaped to North Carolina and hunkered in the suburbs, near a beautiful pond with ducks. I spent a lot of time at that pond."
+
+"2020-09-30":
+    - headline: "🥯 Back to Brooklyn"
+      based: "Brooklyn"
+      description: "No place like home."
+
+"2021-06-02":
+    - headline: "💍 Married 20 years"
+
+"2021-06-15":
+    - headline: "👔 Became CEO"
+
+"2021-09-18":
+    - headline: "👧 E turned 9"
+
+"2022-06-17":
+    - headline: "💸 Sold Postlight"
+      description: "After a long process, we sold the company to NTT DATA, the biggest IT services firm you've never heard of, the company that invented the emoji. 😃"
+      based: "Brooklyn"
+      doing: "Working"
+      association: "NTT DATA"
+
+"2022-09-18":
+    - headline: "👧 E turned 10"
+
+"2022-12-28":
+    - headline: "👩‍⚕️ Cancer"
+      description: "Grateful to MSK for my successful treatment."
+
+"2023-03-03":
+    - headline: "🌍 REF"
+      description: "Joined the board of directors of the Radiant Earth Foundation, a progressive non-profit working on improving access to data about our world."
+
+"2023-07-01":
+    - headline: "🇮🇹 Visited Sicily"
+      description: "Whole fam-damily spent two weeks not far from Trapani, Sicily."
+
+"2023-09-18":
+    - headline: "👧 E turned 11"
+
+"2024-07-17":
+    - headline: "🧘‍♀️ Left NTT DATA"
+      based: "Brooklyn"
+      doing: "Funemployed"
+      association: ""
+      description: "Time for a break."
+
+"2024-09-18":
+    - headline: "👧 E turned 12"
+
+"2024-10-20":
+    - headline: "🏀 Liberty won!"
+      description: "Got to see the NY Liberty win their first WNBA championship in person at Barclays Center. WE ALL WE GOT, WE ALL WE NEED."
+
+"2025-02-05":
+    - headline: "📍 Made this"
+      description: "A lot of rest and reflection and space and time to explore led to finding Life in Weeks, copying it, and making it my own."
+
+"2059-09-19":
+    - headline: "☠️ Life expectancy"
+
+"2075-09-19":
+    - headline: "🥰 Hug T&E at the beach"
+
+# Presidents
+"1981-01-20":
+    - headline: "🇺🇸 Reagan inaugurated"
+"1989-01-20":
+    - headline: "🇺🇸 GH Bush inaugurated"
+"1993-01-20":
+    - headline: "🇺🇸 Clinton inaugurated"
+"2001-01-20":
+    - headline: "🇺🇸 GW Bush inaugurated"
+"2009-01-20":
+    - headline: "🇺🇸 Obama inaugurated"
+"2017-01-20":
+    - headline: "🇺🇸 Cheeto inaugurated"
+"2021-01-20":
+    - headline: "🇺🇸 Biden inaugurated"
+"2025-01-20":
+    - headline: "🇺🇸 Cheeto inaugurated"
