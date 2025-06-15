@@ -1,9 +1,16 @@
-baseURL = 'https://weeks.ginatrapani.org/'
+baseURL = 'https://trylifeinweeks.github.io/'
 languageCode = 'en-us'
-title = 'My Life in Weeks'
+title = 'Life in Weeks – Hanhee Lee'
 disableKinds = ["taxonomy", "taxonomy"]
 enableEmoji = true
+enableRobotsTXT = true
 
 
 [params]
-author = "Gina Trapani"
+name = "Hanhee Lee"
+birthdate = "2004-12-04"
+author = "Hanhee Lee"
+
+[caches]
+[caches.images]
+dir = ":cacheDir/images"
